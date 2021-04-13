@@ -17,3 +17,4 @@ Les ressources LPIC : <https://www.editions-eni.fr/livre/linux-preparation-a-la-
 ## Notes personelles
 Mheu!
 ## Commentaires
+* Alex a fait un commentaire.....
