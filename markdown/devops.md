@@ -7,6 +7,7 @@
 *Avoir une mission
 *Avoir quelque chose à mettre sur mon CV
 
+#Trucs à faire
 
 
 #Commentaires
